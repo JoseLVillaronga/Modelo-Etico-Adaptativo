@@ -17,7 +17,7 @@ El **Modelo Ético Adaptativo** es una propuesta para guiar decisiones éticas t
 3. **Comparte el proyecto:** Usá el enlace público del repositorio para compartir esta iniciativa con otros interesados.
 
 ## Contacto
-Para consultas o colaboración, podés contactarnos a través de los *issues* de este repositorio o por correo electrónico: [tu-email@example.com]
+Para consultas o colaboración, podés contactarnos a través de los *issues* de este repositorio o por correo electrónico: [jlvillaronga@teccam.net]
 
 ---
 
