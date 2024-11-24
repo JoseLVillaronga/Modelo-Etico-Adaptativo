@@ -28,7 +28,8 @@ Para consultas o colaboración, podés contactarnos a través de los *issues* de
   - `contextos.md`: Definiciones y jerarquías de los contextos éticos.
   - `valores.md`: Lista y compromisos de los valores universales.
   - `modelo/`:
-    - `Modelo_Etico_Adaptativo_Explicación_Detallada.pdf`: Explicación detallada del Modelo Etico Adaptativo
+    - `Modelo_Etico_Adaptativo_Explicación_Detallada.pdf`: Explicación detallada del Modelo Etico Adaptativo.
+    - `prompt_de_prueba.md`: Prompt de prueba para usar junto al documento con la explición detallada.
 - `proposals/`:
   - `organo-publico.md`: Propuesta del órgano interdisciplinario 24/7.
   - `acuerdos-globales.md`: Propuesta para fomentar la cooperación internacional.
