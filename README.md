@@ -9,6 +9,7 @@ El **Modelo Ético Adaptativo** es una propuesta para guiar decisiones éticas t
 - **[examples/]**: Ejercicios y casos prácticos organizados por contexto.
 - **[LICENSE]**: Licencia que regula el uso de este repositorio.
 - **[CONTRIBUTING.md]**: Directrices para contribuir al desarrollo del proyecto.
+- **[MANIFIESTO.md]**: Manifiesto del Modelo Etico Adaptativo.
 
 ## Cómo usar este repositorio
 
