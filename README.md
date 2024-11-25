@@ -15,7 +15,7 @@ El **Modelo Ético Adaptativo** es una propuesta para guiar decisiones éticas t
 1. **Consulta los documentos:** Navegá por las carpetas para explorar las diferentes secciones del modelo.
 2. **Contribuí al proyecto:** Abrí un *issue* o enviá un *pull request* para proponer cambios o mejoras.
 3. **Comparte el proyecto:** Usá el enlace público del repositorio para compartir esta iniciativa con otros interesados.
-4. **Pueba el modelo funcionando aquí:** [https://chatgpt.com/g/g-673cbe2d1690819193418aee5911a0d8-modelo-etico-adaptativo]
+4. **Prueba el modelo funcionando aquí:** [https://chatgpt.com/g/g-673cbe2d1690819193418aee5911a0d8-modelo-etico-adaptativo]
 
 ## Contacto
 Para consultas o colaboración, podés contactarnos a través de los *issues* de este repositorio o al siguiente email: [modelo.etico.adaptativo@outlook.com]
