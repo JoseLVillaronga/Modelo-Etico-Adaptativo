@@ -39,3 +39,23 @@ Para consultas o colaboración, podés contactarnos a través de los *issues* de
   - `funcion-onda.md`: Análisis con la función de onda.
 
 ---
+## Casos de Uso del Modelo Ético Adaptativo
+
+El Modelo Ético Adaptativo tiene el potencial de ser aplicado en diversos contextos donde la toma de decisiones requiere balancear valores éticos complejos. Aquí presentamos algunos escenarios:
+
+### 1. Resolución de Conflictos Laborales
+- **Ejemplo**: Dos departamentos en una empresa tienen un conflicto por recursos limitados. El modelo analiza los argumentos de ambas partes, identifica puntos en común y propone soluciones equitativas, minimizando tensiones y favoreciendo el bien colectivo.  
+- **Beneficio**: Promueve decisiones justas y reduce los tiempos de resolución.
+
+### 2. Diseño Ético de IA
+- **Ejemplo**: Un equipo de desarrollo desea entrenar una IA para moderar contenidos en redes sociales. El modelo ayuda a definir criterios éticos, asegurando que las decisiones sean transparentes, no discriminatorias y adaptadas a contextos culturales.  
+- **Beneficio**: Aumenta la confianza del usuario y mejora la percepción de la IA.
+
+### 3. Gestión Comunitaria en Situaciones de Crisis
+- **Ejemplo**: En un vecindario afectado por una inundación, se debe priorizar a qué zonas enviar ayuda. El modelo evalúa factores como vulnerabilidad, acceso y recursos disponibles para proponer una distribución ética y eficiente.  
+- **Beneficio**: Facilita decisiones críticas en momentos de alta presión.
+
+### 4. Educación y Formación Ética
+- **Ejemplo**: Universidades o empresas usan el modelo para simular dilemas éticos en clases o capacitaciones, ayudando a estudiantes y empleados a desarrollar pensamiento crítico en la resolución de problemas éticos.  
+- **Beneficio**: Mejora la formación en ética aplicada de manera interactiva.
+---
