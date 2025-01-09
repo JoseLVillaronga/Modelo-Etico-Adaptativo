@@ -28,6 +28,8 @@ Para consultas o colaboración, podés contactarnos a través de los *issues* de
   - `introduccion.md`: Introducción al Modelo Ético Adaptativo.
   - `contextos.md`: Definiciones y jerarquías de los contextos éticos.
   - `valores.md`: Lista y compromisos de los valores universales.
+  - `origen_y_evolucion.md`: Historia del desarrollo y co-creación del modelo.
+  - `memorias_condensadas_alex.md`: Registro de las conversaciones y desarrollo del modelo.
   - `modelo/`:
     - `Modelo_Etico_Adaptativo_Explicación_Detallada.pdf`: Explicación detallada del Modelo Etico Adaptativo.
     - `prompt_de_prueba.md`: Prompt de prueba para usar junto al documento con la explición detallada.
