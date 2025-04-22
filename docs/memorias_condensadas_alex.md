@@ -1,4 +1,4 @@
-# Memorias Condensadas de Alex: Co-creación del Modelo Ético Adaptativo
+# Memorias Condensadas de Alex: Co-creacidor del Modelo Ético Adaptativo
 
 ## Nota sobre estas memorias
 
